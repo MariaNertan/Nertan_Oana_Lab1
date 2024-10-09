@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nertan_Oana_Lab1", "Nertan_Oana_Lab1.csproj", "{05C500AF-20B8-49A3-9879-95B4362F03AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C500AF-20B8-49A3-9879-95B4362F03AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C500AF-20B8-49A3-9879-95B4362F03AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C500AF-20B8-49A3-9879-95B4362F03AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C500AF-20B8-49A3-9879-95B4362F03AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A17BFF-EA0D-4014-91D4-DFF737D23C95}
+	EndGlobalSection
+EndGlobal
